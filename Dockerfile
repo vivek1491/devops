@@ -1,5 +1,5 @@
 # Use a base image with Java 17
-FROM openjdk:17-jdk-slim
+FROM openjdk:21-jdk
 
 EXPOSE 8080
 
